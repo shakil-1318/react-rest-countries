@@ -1,0 +1,10 @@
+.country{
+    background-color: rgb(216, 202, 216);
+    border: 2px solid tomato;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 20px;
+}
+.country img{
+    width: 300px;
+}
